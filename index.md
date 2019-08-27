@@ -1,4 +1,8 @@
-## Welcome to GitHub Pages
+# Shashank's First CS193 Homework
+
+- Students teaching the class makes it more personal
+- No stress about finals for the class
+- Great way to make new friends!
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
